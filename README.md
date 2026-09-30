@@ -1,13 +1,23 @@
-### Hi there 👋 *I'm Bilel GATTOUFI*
-----------------------------------------
-***I'm a IT ANALYST DEVELOPER *** 
+### Hi there 👋 *I'm Bilel GATTOUFI Analyste Developer IT *
+---------------------------------------- 
 
-* Technology Software 👨‍💻 : ***JAVA, J2EE, Spring Boot / Angular, JSF, JSP, Hibernate*** 
+Analyste Développeur Java Senior, j'accompagne la modernisation et l'évolution des systèmes critiques vers des standards modernes (Java 17 / Java 21). 
 
-* Technology web 👨‍💻 : ***HTML5, CSS3, JAVASCRIPT, Bootstrap jQuery, Angular, PHP*** 
- 
-- 🔭 I’m currently working on a new Project JAVA JEE ☕
-- 🌱 I’m currently learning the SPRING BOOT 
+🚀 Éligible au Passeport Talent (Expatriation France / Europe) 
+
+Pour moi, le Clean Code n’est pas qu'une esthétique, c'est un actif de l'entreprise qui doit conjuguer deux impératifs sur le terrain : Lisibilité et Testabilité. 
+
+Loin du marketing technologique, je crois à l'application pragmatique des concepts en équipe : 
+Modernisation efficace :Exploiter la puissance de Java 21 (Virtual Threads, Records, Pattern Matching) pour optimiser les performances et réduire la dette technique des bases de code legacy.
+
+L'art du compromis technique :Savoir quand adopter l'élégance déclarative du style fonctionnel (Stream, Optional) et quand préserver la clarté d'un style impératif pour garantir un débogage rapide et une maintenance fluide.
+
+Robustesse & Qualité : Structurer le code de manière à réduire la complexité cyclomatique à la source, rendant les applications naturellement testables et prêtes pour la production.
+
+Convaincu que la valeur d'un développeur Senior réside dans sa capacité à faire les bons choix technologiques au bon moment.
+
+📩 gtf-bll@hotmail.com
+
 - 👯 I'm looking to collaborate on projects 👨‍💻👩‍💻🛠
 - 🤔 I’m looking for more experience 💡💪
 - 📫 How to reach me: 
