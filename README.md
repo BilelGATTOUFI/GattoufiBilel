@@ -1,9 +1,9 @@
 ### Hi there 👋 *I'm Bilel GATTOUFI Analyste Developer IT *
 ---------------------------------------- 
 
-Analyste Développeur Java Senior, j'accompagne la modernisation et l'évolution des systèmes critiques vers des standards modernes (Java 17 / Java 21). 
+Analyste Développeur Java Senior✅, j'accompagne la modernisation et l'évolution des systèmes critiques vers des standards modernes (Java 17 / Java 21). 
 
-🚀 Éligible au Passeport Talent (Expatriation France / Europe) 
+🚀 Éligible au Passeport Talent (Expatriation France / Europe) 🌐
 
 Pour moi, le Clean Code n’est pas qu'une esthétique, c'est un actif de l'entreprise qui doit conjuguer deux impératifs sur le terrain : Lisibilité et Testabilité. 
 
@@ -17,14 +17,15 @@ Robustesse & Qualité : Structurer le code de manière à réduire la complexit�
 Convaincu que la valeur d'un développeur Senior réside dans sa capacité à faire les bons choix technologiques au bon moment.
 
 📩 gtf-bll@hotmail.com
-
 - 👯 I'm looking to collaborate on projects 👨‍💻👩‍💻🛠
-- 🤔 I’m looking for more experience 💡💪
+  
+          ✅✅✅✅✅✅✅
+  
 - 📫 How to reach me: 
-  - **[Email]:** <gtf-bll@hotmail.com>
+  - **[Email]:** <gtf-bll@hotmail.com> 
   - *[Instagram](https://www.instagram.com/coding.todo/)*
   - *[Linkedin](https://www.linkedin.com/in/bilel-gattoufi-0a025229/)*
   - *[Facebook Page](https://www.facebook.com/todocoding)*
   - *[Portfolio](https://gattoufibilel.github.io/iPortfolio/)* ✅
-- ⚡ Fun fact: camping, travel and reading books
+- ⚡ Fun fact: camping, travel and reading books ✅
 
